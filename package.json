@@ -1,5 +1,5 @@
 {
-  "name": "node-libtorrent",
+  "name": "libtorrent",
   "description": "rb-libtorrent bindings for node.js",
   "author": "Kirill Fomichev <fanatid@ya.ru>",
   "homepage": "http://fanatid.github.io/node-libtorrent/",
