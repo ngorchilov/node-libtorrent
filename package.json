@@ -1,17 +1,17 @@
 {
   "name": "libtorrent",
-  "description": "rb-libtorrent bindings for node.js",
-  "author": "Kirill Fomichev <fanatid@ya.ru>",
-  "homepage": "http://fanatid.github.io/node-libtorrent/",
+  "description": "unofficial node.js bindings for rasterbar's libbtorrent (www.libtorrent.org)",
+  "author": "Nikolai Gorchilov <niki@gorchilov.com>",
+  "homepage": "https://github.com/ngorchilov/node-libtorrent-ng",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fanatid/node-libtorrent.git"
+    "url": "https://github.com/ngorchilov/node-libtorrent-ng.git"
   },
   "bugs": {
-    "url": "https://github.com/fanatid/node-libtorrent/issues"
+    "url": "https://github.com/ngorchilov/node-libtorrent-ng/issues"
   },
   "main": "./lib/libtorrent.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": ">= 0.8.0"
   },

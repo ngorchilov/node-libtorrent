@@ -1,6 +1,6 @@
-# node-libtorrent
+# node-libtorrent-ng
 
-node-libtorrent provides native bindings to [libtorrent rastebar](http://www.rasterbar.com/products/libtorrent/) as a [Node.js addon](http://nodejs.org/docs/latest/api/addons.html).
+node-libtorrent-ng is a fork of [node-libtorrent](https://github.com/fanatid/node-libtorrent) and provides native bindings to [libtorrent rastebar](http://www.rasterbar.com/products/libtorrent/) as a [Node.js addon](http://nodejs.org/docs/latest/api/addons.html).
 
 # Getting started
 Execute in command line:
